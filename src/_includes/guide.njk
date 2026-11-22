@@ -1,0 +1,19 @@
+---
+layout: base.njk
+---
+<article class="wrap">
+  <header class="page-hero">
+    <p class="crumbs">
+      <a href="{{ '/zh/' if lang == 'zh' else '/en/' }}">{{ "crumbsHome" | ui(lang, i18n) }}</a>
+      /
+      {{ "crumbsGuides" | ui(lang, i18n) }}
+    </p>
+    <p class="kicker">{{ "crumbsGuides" | ui(lang, i18n) }}</p>
+    <h1>{{ title }}</h1>
+    {% if description %}<p>{{ description }}</p>{% endif %}
+  </header>
+  {% include "partials/verified.njk" %}
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+</article>
