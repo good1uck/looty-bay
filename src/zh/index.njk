@@ -1,0 +1,45 @@
+---
+layout: base.njk
+lang: zh
+translationKey: home
+title: 非官方《ROB RUN》攻略
+description: 非官方《ROB RUN》中文攻略：游戏介绍、清档、赚钱、抢劫、警察、基地，以及官方排障说明。本站与 Kefir 无隶属关系。
+permalink: /zh/
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="kicker">非官方粉丝站点</p>
+    <h1>一份写得谨慎的《ROB RUN》手册</h1>
+    <p class="lede">{{ site.taglineZh }}。我们只写官方来源里明确说过的内容——Steam 商店页、Kefir 帮助中心，以及开发者公告——并标明核对日期。游戏没有官方中文客户端，因此首次出现的术语会附上英文原词。</p>
+    <div class="hero-actions">
+      <a class="btn" href="/zh/guides/beginner/">先看开局第一小时</a>
+      <a class="btn btn-secondary" href="{{ site.steam }}" rel="noopener">官方 Steam 页面</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>攻略</h2>
+      <p>每篇文章都有对应的英文版。</p>
+    </div>
+    <div class="grid-3">
+      {% for g in collections.zhGuides %}
+      <a class="card" href="{{ g.url }}">
+        <h3>{{ g.data.shortTitle or g.data.title }}</h3>
+        <p>{{ g.data.description }}</p>
+        <span class="more">阅读全文</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>本站怎么写</h2>
+    <p class="lede">《ROB RUN》仍在抢先体验（Early Access）阶段。如果帮助中心的说明和之后的 Steam 更新不一致，我们会同时注明两边的来源。我们不会编造按键、价格或物品表。</p>
+    <p><a href="/zh/about/">关于本站</a> · <a href="/zh/sources/">来源列表</a> · <a href="/zh/faq/">常见问题</a> · <a href="/en/">English</a></p>
+  </div>
+</section>
