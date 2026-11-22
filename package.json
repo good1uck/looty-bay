@@ -1,0 +1,14 @@
+{
+  "name": "looty-bay",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Looty Bay Manual / Looty Bay 攻略手册 — an unofficial bilingual guide to ROB RUN.",
+  "scripts": {
+    "start": "eleventy --serve --port=8080",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
