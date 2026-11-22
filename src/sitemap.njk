@@ -1,0 +1,27 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>{{ site.url }}/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}/"/>
+  </url>
+{%- for key, pair in i18n.paths %}
+  <url>
+    <loc>{{ site.url }}{{ pair.en }}</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}{{ pair.en }}"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ pair.zh }}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ pair.en }}"/>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ pair.zh }}</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ site.url }}{{ pair.en }}"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="{{ site.url }}{{ pair.zh }}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ pair.en }}"/>
+  </url>
+{%- endfor %}
+</urlset>
