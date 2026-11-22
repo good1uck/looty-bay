@@ -1,0 +1,45 @@
+---
+layout: base.njk
+lang: en
+translationKey: home
+title: Unofficial ROB RUN guides
+description: An unofficial English guide to ROB RUN — what the game is, wipes, money, heists, cops, bases, and official troubleshooting. Not affiliated with Kefir.
+permalink: /en/
+---
+<section class="hero">
+  <div class="wrap">
+    <p class="kicker">Unofficial fan site</p>
+    <h1>A careful guide to ROB RUN</h1>
+    <p class="lede">{{ site.taglineEn }}. We only write what official sources state — the Steam page, Kefir’s Help Center, and developer announcements — and we date the check.</p>
+    <div class="hero-actions">
+      <a class="btn" href="/en/guides/beginner/">Start with the first hour</a>
+      <a class="btn btn-secondary" href="{{ site.steam }}" rel="noopener">Official Steam page</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Guides</h2>
+      <p>All pages have a Chinese counterpart.</p>
+    </div>
+    <div class="grid-3">
+      {% for g in collections.enGuides %}
+      <a class="card" href="{{ g.url }}">
+        <h3>{{ g.data.shortTitle or g.data.title }}</h3>
+        <p>{{ g.data.description }}</p>
+        <span class="more">Read the guide</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>How this site works</h2>
+    <p class="lede">ROB RUN is still in Early Access. If a Help Center article and a later Steam patch disagree, we say so and cite both. We do not invent keybinds, prices, or item lists.</p>
+    <p><a href="/en/about/">About this site</a> · <a href="/en/sources/">Source list</a> · <a href="/en/faq/">FAQ</a> · <a href="/zh/">简体中文</a></p>
+  </div>
+</section>
