@@ -1,0 +1,44 @@
+{% set uiLang = lang if lang == "zh" or lang == "en" else "en" %}
+{% set guides = collections.zhGuides if lang == "zh" else collections.enGuides %}
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="site-footer__grid">
+      <div>
+        <p><strong>{{ site.nameZh if lang == "zh" else site.nameEn }}</strong><br>{{ site.taglineZh if lang == "zh" else site.taglineEn }}</p>
+        <p>{{ "footerBlurb" | ui(uiLang, i18n) }}</p>
+      </div>
+      <div>
+        <p><strong>{{ "footerGuides" | ui(uiLang, i18n) }}</strong><br>
+        {% if lang == "zh" or lang == "en" %}
+        {% for g in guides %}
+        <a href="{{ g.url }}">{{ g.data.shortTitle or g.data.title }}</a>{% if not loop.last %}<br>{% endif %}
+        {% endfor %}
+        {% else %}
+        <a href="/en/">English</a><br>
+        <a href="/zh/">简体中文</a>
+        {% endif %}
+        </p>
+      </div>
+      <div>
+        <p><strong>{{ "footerMeta" | ui(uiLang, i18n) }}</strong><br>
+        {% if lang == "zh" %}
+        <a href="/zh/faq/">常见问题</a><br>
+        <a href="/zh/sources/">来源</a><br>
+        <a href="/zh/about/">关于本站</a><br>
+        {% elif lang == "en" %}
+        <a href="/en/faq/">FAQ</a><br>
+        <a href="/en/sources/">Sources</a><br>
+        <a href="/en/about/">About</a><br>
+        {% else %}
+        <a href="/en/about/">About</a><br>
+        <a href="/zh/about/">关于本站</a><br>
+        {% endif %}
+        <a href="{{ site.steam }}" rel="noopener">Steam</a><br>
+        <a href="{{ site.help }}" rel="noopener">Help Center</a>
+        </p>
+      </div>
+    </div>
+    <p class="disclosure">{{ "footerLegal" | ui(uiLang, i18n) }}</p>
+    <p>© {{ "now" | year }} {{ site.nameEn }} / {{ site.nameZh }}. {{ site.verifiedNoteEn if uiLang == "en" else site.verifiedNoteZh }}</p>
+  </div>
+</footer>

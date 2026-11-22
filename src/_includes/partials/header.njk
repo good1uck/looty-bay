@@ -1,0 +1,42 @@
+{% set uiLang = lang if lang == "zh" or lang == "en" else "en" %}
+{% set homeHref = "/zh/" if lang == "zh" else "/en/" %}
+{% if page.url == "/" %}
+  {% set homeHref = "/" %}
+{% endif %}
+{% set siteName = site.nameZh if lang == "zh" else site.nameEn %}
+{% set otherLang = "en" if lang == "zh" else "zh" %}
+{% set otherHref = i18n.paths[translationKey][otherLang] if translationKey and i18n.paths[translationKey] else ( "/en/" if lang == "zh" else "/zh/" ) %}
+{% if page.url == "/" %}
+  {% set otherHref = "/zh/" %}
+{% endif %}
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="logo" href="{{ homeHref }}" {% if page.url == homeHref or page.url == "/" %}aria-current="page"{% endif %}>
+      <span class="mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="2" y="18" width="28" height="10" fill="#1a1f24"/>
+          <rect x="4" y="10" width="7" height="18" fill="#2a333c"/>
+          <rect x="13" y="6" width="6" height="22" fill="#243038"/>
+          <rect x="21" y="12" width="8" height="16" fill="#2a333c"/>
+          <rect x="5" y="12" width="2" height="2" fill="#e3b23c"/>
+          <rect x="15" y="9" width="2" height="2" fill="#e3b23c"/>
+        </svg>
+      </span>
+      <span class="logo-text">
+        <span class="logo-name">{{ siteName }}</span>
+        <span class="logo-badge">{{ "unofficial" | ui(uiLang, i18n) }}</span>
+      </span>
+    </a>
+    <nav class="nav" aria-label="{{ 'guides' | ui(uiLang, i18n) }}">
+      {% if page.url != "/" %}
+      <a href="{{ '/zh/faq/' if lang == 'zh' else '/en/faq/' }}" {% if "/faq/" in page.url %}aria-current="page"{% endif %}>{{ "faq" | ui(uiLang, i18n) }}</a>
+      <a href="{{ '/zh/sources/' if lang == 'zh' else '/en/sources/' }}" {% if "/sources/" in page.url %}aria-current="page"{% endif %}>{{ "sources" | ui(uiLang, i18n) }}</a>
+      <a href="{{ '/zh/about/' if lang == 'zh' else '/en/about/' }}" {% if "/about/" in page.url %}aria-current="page"{% endif %}>{{ "about" | ui(uiLang, i18n) }}</a>
+      <a class="lang-switch" href="{{ otherHref }}" hreflang="{{ 'en' if otherLang == 'en' else 'zh-Hans' }}" lang="{{ 'en' if otherLang == 'en' else 'zh-Hans' }}" title="{{ 'langSwitchLabel' | ui(uiLang, i18n) }}">{{ "langSwitch" | ui(uiLang, i18n) }}</a>
+      {% else %}
+      <a href="/en/">English</a>
+      <a href="/zh/" lang="zh-Hans">简体中文</a>
+      {% endif %}
+    </nav>
+  </div>
+</header>
