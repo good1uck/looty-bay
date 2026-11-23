@@ -16,6 +16,9 @@ Verified against official sources as of November 22, 2026 (America/New_York).
 - [x] Troubleshooting, error codes, Easy Anti-Cheat, joining a friend
 - [x] No official redeem codes (negative confirmation)
 - [x] FAQ, About, Sources (EN + ZH)
+- [x] Vehicles: free Parking Terminal rental, owning and upgrading a car, key locker, modules
+- [x] Helicopters: central-district purchase rule and loot finds
+- [x] Lockpicking other players’ trunks, including cop cars
 
 ## Next topics (official-source only)
 
@@ -23,9 +26,9 @@ Write these only when a Help Center article, Steam news post, or other official 
 
 1. Death and loot loss in more depth (expand from the existing first-hour / heist notes; include desert vs city vs cop / civilian / criminal).
 2. Clans: how to join or create one, laundered-funds requirement, territory control (Getting Started mentions this).
-3. Vehicles in full: free rental at a Parking Terminal, owning and upgrading a car, key locker, modules.
-4. Helicopters: central-district purchase rule and loot finds.
-5. Lockpicking other players’ trunks, including cop cars.
+3. [x] Vehicles in full: free rental at a Parking Terminal, owning and upgrading a car, key locker, modules.
+4. [x] Helicopters: central-district purchase rule and loot finds.
+5. [x] Lockpicking other players’ trunks, including cop cars.
 6. Cargo: hauling and flipping, versus dumpster cash (patch notes mention both).
 7. Base production: farms, labs, and contraband, without inventing recipes or cycle times.
 8. Shipments unlock tree, but only if Kefir publishes one; otherwise a short “what official pages say about the H key tab.”
