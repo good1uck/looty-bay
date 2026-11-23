@@ -13,6 +13,7 @@ const paths = {
   troubleshooting: { en: "/en/guides/troubleshooting/", zh: "/zh/guides/troubleshooting/" },
   codes: { en: "/en/guides/codes/", zh: "/zh/guides/codes/" },
   vehicles: { en: "/en/guides/vehicles/", zh: "/zh/guides/vehicles/" },
+  clans: { en: "/en/guides/clans/", zh: "/zh/guides/clans/" },
 };
 
 export default {

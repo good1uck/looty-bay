@@ -19,13 +19,14 @@ Verified against official sources as of November 22, 2026 (America/New_York).
 - [x] Vehicles: free Parking Terminal rental, owning and upgrading a car, key locker, modules
 - [x] Helicopters: central-district purchase rule and loot finds
 - [x] Lockpicking other players’ trunks, including cop cars
+- [x] Clans: joining or founding, laundered-funds requirement, size, switching, territory and Shadow Governor
 
 ## Next topics (official-source only)
 
 Write these only when a Help Center article, Steam news post, or other official page actually supports them. If the official text is thin, say so.
 
 1. Death and loot loss in more depth (expand from the existing first-hour / heist notes; include desert vs city vs cop / civilian / criminal).
-2. Clans: how to join or create one, laundered-funds requirement, territory control (Getting Started mentions this).
+2. [x] Clans: how to join or create one, laundered-funds requirement, territory control (Getting Started mentions this).
 3. [x] Vehicles in full: free rental at a Parking Terminal, owning and upgrading a car, key locker, modules.
 4. [x] Helicopters: central-district purchase rule and loot finds.
 5. [x] Lockpicking other players’ trunks, including cop cars.
