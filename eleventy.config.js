@@ -2,6 +2,10 @@ const pathPrefix = process.env.PATH_PREFIX || "/looty-bay";
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
+  // IndexNow key must be served at /<key>.txt (see SEO-NOTES.md).
+  eleventyConfig.addPassthroughCopy({
+    "src/1038b95573efc13630b5d31aee50da39.txt": "1038b95573efc13630b5d31aee50da39.txt",
+  });
 
   eleventyConfig.addCollection("enGuides", (api) =>
     api
