@@ -35,3 +35,9 @@ The verification meta tag lives in `src/_includes/base.njk`, so it is in the `<h
 ```html
 <meta name="google-site-verification" content="okJxWPEeoDwxvDOCB7D6Trs1ZvjEUzvH-SkoIrpEl24" />
 ```
+
+## GoatCounter
+
+Privacy-friendly visit counts, with no cookies. The tracking script is in `src/_includes/base.njk`.
+
+- **dashboard:** https://lootybay.goatcounter.com/

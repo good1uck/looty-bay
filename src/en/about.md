@@ -23,6 +23,8 @@ This site is **not affiliated with, endorsed by, or operated by Kefir**. ROB RUN
 
 This version of the site has **no advertising and no affiliate links**. We do not sell items, accounts, or power-leveling. Kefir’s [terms of use](https://kefir.games/terms-of-service) prohibit paid power-leveling and item-collection services outside the game.
 
+This site uses [GoatCounter](https://www.goatcounter.com/), a privacy-friendly analytics tool with no cookies, to count visits.
+
 ## Official places to play and get help
 
 - Play the game on [Steam](https://store.steampowered.com/app/4262460/ROB_RUN/) (free).

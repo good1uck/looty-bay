@@ -23,6 +23,8 @@ permalink: /zh/about/
 
 当前版本**没有广告，也没有联盟链接**。我们不出售物品、账号或代练。Kefir 的[使用条款](https://kefir.games/terms-of-service)禁止在游戏外提供有偿代练和代刷物品服务。
 
+本站使用 [GoatCounter](https://www.goatcounter.com/) 统计访问量。这是一款注重隐私的分析工具，不使用 Cookie。
+
 ## 官方游玩与支持渠道
 
 - 在 [Steam](https://store.steampowered.com/app/4262460/ROB_RUN/) 免费游玩。
