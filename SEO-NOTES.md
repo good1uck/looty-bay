@@ -27,3 +27,11 @@ To submit URLs, POST JSON:
 A `200` or `202` response is success. Submit only new or updated page URLs in the nightly routine, not the whole sitemap every night.
 
 robots.txt already points to `https://good1uck.github.io/looty-bay/sitemap.xml`.
+
+## Google Search Console
+
+The verification meta tag lives in `src/_includes/base.njk`, so it is in the `<head>` of every HTML page, including the root property URL `https://good1uck.github.io/looty-bay/`:
+
+```html
+<meta name="google-site-verification" content="okJxWPEeoDwxvDOCB7D6Trs1ZvjEUzvH-SkoIrpEl24" />
+```
