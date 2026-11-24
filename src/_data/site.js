@@ -15,11 +15,11 @@ export default {
     "一份关于 Kefir 游戏《ROB RUN》的非官方中英对照攻略。文中事实均注明官方来源。本站与 Kefir 无隶属关系。",
   url,
   pathPrefix,
-  verified: "2026-11-22",
+  verified: "2026-11-24",
   verifiedNoteEn:
-    "Verified against official sources as of November 22, 2026 (America/New_York). ROB RUN is in Early Access, so systems can change in a patch.",
+    "Verified against official sources as of November 24, 2026 (Beijing time, UTC+8). ROB RUN is in Early Access, so systems can change in a patch.",
   verifiedNoteZh:
-    "以下内容根据官方来源核对，核对日期为 2026 年 11 月 22 日（美国东部时间）。游戏仍在抢先体验（Early Access）阶段，机制可能会随更新改变。",
+    "以下内容根据官方来源核对，核对日期为 2026 年 11 月 24 日（北京时间）。游戏仍在抢先体验（Early Access）阶段，机制可能会随更新改变。",
   repo: "https://github.com/good1uck/looty-bay",
   steam: "https://store.steampowered.com/app/4262460/ROB_RUN/",
   officialSite: "https://robrun.com/en",

@@ -2,7 +2,7 @@
 
 Editorial rule: do not invent mechanics, numbers, or keybinds. A topic moves off this list only when both the English and Chinese pages exist, each claim is cited to an official source, and the source-check date is current.
 
-Verified against official sources as of November 22, 2026 (America/New_York).
+Verified against official sources as of November 24, 2026 (Asia/Shanghai).
 
 ## Published in v1
 
@@ -20,6 +20,7 @@ Verified against official sources as of November 22, 2026 (America/New_York).
 - [x] Helicopters: central-district purchase rule and loot finds
 - [x] Lockpicking other players’ trunks, including cop cars
 - [x] Clans: joining or founding, laundered-funds requirement, size, switching, territory and Shadow Governor
+- [x] Anti-cheat and bans: EAC, Help Center ban policy and appeals, November 23, 2026 anti-cheat post (hardware bans explored, planned jail-time / purchase-gated servers)
 
 ## Next topics (official-source only)
 
@@ -40,9 +41,9 @@ Write these only when a Help Center article, Steam news post, or other official 
 13. Party size: Kefir is not expanding it for now (November 13 FAQ).
 14. Weapon durability and the statement that weapons cannot be repaired yet, with repair planned (November 13 FAQ).
 15. B-Coins and cosmetics / not pay-to-win (short dedicated page if the shop changes).
-16. Kernel-level Easy Anti-Cheat and ban policy, expanded for new players.
+16. [x] Kernel-level Easy Anti-Cheat and ban policy, expanded for new players. (Published November 24, 2026; update when restricted servers or hardware bans ship.)
 17. Steam Deck, macOS, and Linux: keep as “not listed on the Steam page” until official requirements change.
-18. Jail time and authority after a wipe, if Kefir later explains how they are used.
+18. Jail time and authority after a wipe, if Kefir later explains how they are used. (November 17, 2026 patch added daily and general jail-time limits; November 23 post says restricted servers may require minimum jail time. Not yet on the wipe page.)
 19. Official communities and support email (standalone directory).
 20. Update cadence and the 6–12 month Early Access window; a dated patch log that only quotes Steam news.
 21. Voice chat issues and official microphone-permission steps.

@@ -14,6 +14,7 @@ const paths = {
   codes: { en: "/en/guides/codes/", zh: "/zh/guides/codes/" },
   vehicles: { en: "/en/guides/vehicles/", zh: "/zh/guides/vehicles/" },
   clans: { en: "/en/guides/clans/", zh: "/zh/guides/clans/" },
+  "anti-cheat-bans": { en: "/en/guides/anti-cheat-bans/", zh: "/zh/guides/anti-cheat-bans/" },
 };
 
 export default {

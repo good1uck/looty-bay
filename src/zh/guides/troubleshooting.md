@@ -29,6 +29,8 @@ permalink: /zh/guides/troubleshooting/
 
 Steam 商店页写明，《ROB RUN》使用**内核级** Easy Anti-Cheat。帮助中心文章[什么是 Easy Anti-Cheat？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1380-what-is-easy-anti-cheat/)说，EAC 用于防止作弊，使用作弊将导致**永久封禁**。如果遇到 EAC 错误，请向支持发送截图和你的 UID。
 
+2026 年 11 月 23 日，Kefir 发布了 [Anti-Cheat Measures and Servers](https://store.steampowered.com/news/app/4262460/view/1849827110441426)：迄今已封禁超过 20 万个账号，正在研究硬件封禁，并计划单独开设需要最低刑期（Jail Time）或一定游戏内消费累计才能进入的服务器。帮助中心另有一篇 [ROB RUN Ban Policy](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1384-rob-run-ban-policy/)（封禁时长与申诉）。两者的要点见[反作弊与封禁](/zh/guides/anti-cheat-bans/)。
+
 ## 错误代码
 
 下表中的代码和解决办法，全部来自[出现错误代码该怎么办？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1377-what-should-i-do-if-i-get-an-error-code/)。如果代码不在该文中，请复制错误窗口里的文字发给支持，不要轻信非官方对照表。
@@ -72,11 +74,13 @@ Steam 商店页写明，《ROB RUN》使用**内核级** Easy Anti-Cheat。帮�
 - [出现错误代码该怎么办？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1377-what-should-i-do-if-i-get-an-error-code/)
 - [游戏崩溃了怎么办？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1379-what-should-i-do-if-the-game-crashes/)
 - [什么是 Easy Anti-Cheat？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1380-what-is-easy-anti-cheat/)
+- [ROB RUN Ban Policy](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1384-rob-run-ban-policy/)
 - [Error: Failed to load il2cpp](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1386-error-failed-to-load-il2cpp/)
 - [好友在其他服务器时如何组队？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1382-how-to-invite-a-friend-to-a-party-if-it-says-they-are-on-another-server/)
 - [如何联系支持、找到官方社区？](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1381-how-do-i-contact-support-and-find-official-communities/)
 - [Steam 上的 ROB RUN](https://store.steampowered.com/app/4262460/ROB_RUN/)
 - [2026 年 11 月 20 日更新说明](https://store.steampowered.com/news/app/4262460/view/1849827110432538)
+- [Anti-Cheat Measures and Servers](https://store.steampowered.com/news/app/4262460/view/1849827110441426)（2026 年 11 月 23 日）
 - [Answering Your Most Frequently Asked Questions](https://store.steampowered.com/news/app/4262460/view/1849192144187218)
 
 </div>

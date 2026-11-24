@@ -29,6 +29,8 @@ If **voice chat** is not working, the Help Center says to check that the game ha
 
 The Steam store page says ROB RUN uses **kernel-level Easy Anti-Cheat**. The Help Center article [What is Easy Anti-Cheat?](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1380-what-is-easy-anti-cheat/) says EAC protects the game from cheats, and that using cheats results in a **permanent ban**. If you encounter an EAC error, send support a screenshot and your UID.
 
+On November 23, 2026, Kefir posted [Anti-Cheat Measures and Servers](https://store.steampowered.com/news/app/4262460/view/1849827110441426): more than 200,000 accounts blocked so far, hardware bans being explored, and planned separate servers that require a minimum amount of jail time or a certain total of in-game purchases. The Help Center also has a [ROB RUN Ban Policy](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1384-rob-run-ban-policy/) (ban lengths and appeals). Both are summarized in [Anti-cheat and bans](/en/guides/anti-cheat-bans/).
+
 ## Error codes
 
 The following codes and official solutions come from [What should I do if I get an error code?](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1377-what-should-i-do-if-i-get-an-error-code/). If your code is not listed there, copy the text from the error window and send it to support rather than trusting an unofficial table.
@@ -72,11 +74,13 @@ If the game will not start at all, confirm you meet the [official requirements](
 - [What should I do if I get an error code?](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1377-what-should-i-do-if-i-get-an-error-code/)
 - [What should I do if the game crashes?](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1379-what-should-i-do-if-the-game-crashes/)
 - [What is Easy Anti-Cheat?](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1380-what-is-easy-anti-cheat/)
+- [ROB RUN Ban Policy](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1384-rob-run-ban-policy/)
 - [Error: Failed to load il2cpp](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1386-error-failed-to-load-il2cpp/)
 - [How to invite a friend…](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1382-how-to-invite-a-friend-to-a-party-if-it-says-they-are-on-another-server/)
 - [How do I contact support and find official communities?](https://kefirgames.helpshift.com/hc/en/14-rob-run/faq/1381-how-do-i-contact-support-and-find-official-communities/)
 - [ROB RUN on Steam](https://store.steampowered.com/app/4262460/ROB_RUN/)
 - [Patch notes, November 20, 2026](https://store.steampowered.com/news/app/4262460/view/1849827110432538)
+- [Anti-Cheat Measures and Servers](https://store.steampowered.com/news/app/4262460/view/1849827110441426) (November 23, 2026)
 - [Answering Your Most Frequently Asked Questions](https://store.steampowered.com/news/app/4262460/view/1849192144187218)
 
 </div>
