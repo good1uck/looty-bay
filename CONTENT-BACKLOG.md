@@ -2,7 +2,7 @@
 
 Editorial rule: do not invent mechanics, numbers, or keybinds. A topic moves off this list only when both the English and Chinese pages exist, each claim is cited to an official source, and the source-check date is current.
 
-Verified against official sources as of November 24, 2026 (Asia/Shanghai).
+Verified against official sources as of November 25, 2026 (Asia/Shanghai).
 
 ## Published in v1
 
@@ -21,6 +21,7 @@ Verified against official sources as of November 24, 2026 (Asia/Shanghai).
 - [x] Lockpicking other players’ trunks, including cop cars
 - [x] Clans: joining or founding, laundered-funds requirement, size, switching, territory and Shadow Governor
 - [x] Anti-cheat and bans: EAC, Help Center ban policy and appeals, November 23, 2026 anti-cheat post (hardware bans explored, planned jail-time / purchase-gated servers)
+- [x] Party size and gear durability (November 13 FAQ)
 
 ## Next topics (official-source only)
 
@@ -38,8 +39,8 @@ Write these only when a Help Center article, Steam news post, or other official 
 10. Fresh servers versus aged servers (pistol-only patrol cops at open).
 11. Playing from Asia or Oceania: cite only the November 13, 2026 FAQ (no expansion until at least the end of 2026) plus current EU / East US schedule. No invented ping fixes.
 12. Changing servers and the promised simpler server selector (track later patches).
-13. Party size: Kefir is not expanding it for now (November 13 FAQ).
-14. Weapon durability and the statement that weapons cannot be repaired yet, with repair planned (November 13 FAQ).
+13. [x] Party size: Kefir is not expanding it for now (November 13 FAQ). (Published November 25, 2026, together with #14.)
+14. [x] Weapon durability and the statement that weapons cannot be repaired yet. (Published November 25, 2026 on the party-and-gear-durability page.)
 15. B-Coins and cosmetics / not pay-to-win (short dedicated page if the shop changes).
 16. [x] Kernel-level Easy Anti-Cheat and ban policy, expanded for new players. (Published November 24, 2026; update when restricted servers or hardware bans ship.)
 17. Steam Deck, macOS, and Linux: keep as “not listed on the Steam page” until official requirements change.
