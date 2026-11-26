@@ -22,6 +22,7 @@ Verified against official sources as of November 25, 2026 (Asia/Shanghai).
 - [x] Clans: joining or founding, laundered-funds requirement, size, switching, territory and Shadow Governor
 - [x] Anti-cheat and bans: EAC, Help Center ban policy and appeals, November 23, 2026 anti-cheat post (hardware bans explored, planned jail-time / purchase-gated servers)
 - [x] Party size and gear durability (November 13 FAQ)
+- [x] Support, bug reports, feedback, UID, missing purchases, lost progress, personal data, official communities, community rules
 
 ## Next topics (official-source only)
 
@@ -45,7 +46,7 @@ Write these only when a Help Center article, Steam news post, or other official 
 16. [x] Kernel-level Easy Anti-Cheat and ban policy, expanded for new players. (Published November 24, 2026; update when restricted servers or hardware bans ship.)
 17. Steam Deck, macOS, and Linux: keep as “not listed on the Steam page” until official requirements change.
 18. Jail time and authority after a wipe, if Kefir later explains how they are used. (November 17, 2026 patch added daily and general jail-time limits; November 23 post says restricted servers may require minimum jail time. Not yet on the wipe page.)
-19. Official communities and support email (standalone directory).
+19. [x] Official communities and support email (standalone directory). (Published November 25, 2026 (US Eastern) on the support-and-feedback page, together with #29.)
 20. Update cadence and the 6–12 month Early Access window; a dated patch log that only quotes Steam news.
 21. Voice chat issues and official microphone-permission steps.
 22. Red screen / HDR official fix, quoted in full from the Help Center.
@@ -55,7 +56,7 @@ Write these only when a Help Center article, Steam news post, or other official 
 26. Notoriety levels and fence deals, only if Kefir publishes the level table.
 27. Accidental sale of valuable items (keys, lottery tickets, jammer / Buletti / Grand Hotel) — keep as a warning, not an item wiki.
 28. Property fences and air vehicles, as discussed in the November 13 FAQ.
-29. How to send feedback or bug reports (Help Center + official communities).
+29. [x] How to send feedback or bug reports (Help Center + official communities). (Published November 25, 2026 (US Eastern) on the support-and-feedback page.)
 30. Mature-content and AI-disclosure summary that points at the Steam wording (already sketched on the “what is” page).
 31. Languages: when an official Chinese client or a named sixth Steam language appears, update the platforms page.
 32. Friend list on the server browser (November 20, 2026 patch) once the UI is described officially in more detail.
