@@ -13,7 +13,7 @@ permalink: /en/guides/what-is-rob-run/
 
 Kefir is listed as both developer and publisher. The store page says every cop and every criminal is a human player, and it mentions “5,000 players around you.” Players can form or join clans, rob banks, raid hideouts, and build a hideout or base. The city’s name, used throughout official materials, is **Looty Bay**.
 
-The game is still being built in public. Kefir says it expects ROB RUN to stay in Early Access for about **6–12 months**, depending on player feedback and how development progresses, and that the full version is planned to add more maps or modes, customization, progression or achievements, and more work on matchmaking, performance, and network stability.
+The game is still being built in public. Kefir says it expects ROB RUN to stay in Early Access for about **6–12 months**, depending on player feedback and how development progresses, and that the full version is planned to add more maps or modes, customization, progression or achievements, and more work on matchmaking, performance, and network stability. For a dated list of changes since launch, see the [updates and patch log](/en/guides/updates-and-patch-log/).
 
 ## Price and purchases
 

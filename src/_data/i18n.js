@@ -17,6 +17,7 @@ const paths = {
   "anti-cheat-bans": { en: "/en/guides/anti-cheat-bans/", zh: "/zh/guides/anti-cheat-bans/" },
   "party-and-gear-durability": { en: "/en/guides/party-and-gear-durability/", zh: "/zh/guides/party-and-gear-durability/" },
   "support-and-feedback": { en: "/en/guides/support-and-feedback/", zh: "/zh/guides/support-and-feedback/" },
+  "updates-and-patch-log": { en: "/en/guides/updates-and-patch-log/", zh: "/zh/guides/updates-and-patch-log/" },
 };
 
 export default {

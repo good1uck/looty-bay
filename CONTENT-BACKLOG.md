@@ -2,7 +2,7 @@
 
 Editorial rule: do not invent mechanics, numbers, or keybinds. A topic moves off this list only when both the English and Chinese pages exist, each claim is cited to an official source, and the source-check date is current.
 
-Verified against official sources as of November 25, 2026 (Asia/Shanghai).
+Verified against official sources as of November 26, 2026 (US Eastern).
 
 ## Published in v1
 
@@ -23,6 +23,7 @@ Verified against official sources as of November 25, 2026 (Asia/Shanghai).
 - [x] Anti-cheat and bans: EAC, Help Center ban policy and appeals, November 23, 2026 anti-cheat post (hardware bans explored, planned jail-time / purchase-gated servers)
 - [x] Party size and gear durability (November 13 FAQ)
 - [x] Support, bug reports, feedback, UID, missing purchases, lost progress, personal data, official communities, community rules
+- [x] Updates, Early Access length, dated patch log, and announced-but-not-shipped plans
 
 ## Next topics (official-source only)
 
@@ -47,7 +48,7 @@ Write these only when a Help Center article, Steam news post, or other official 
 17. Steam Deck, macOS, and Linux: keep as “not listed on the Steam page” until official requirements change.
 18. Jail time and authority after a wipe, if Kefir later explains how they are used. (November 17, 2026 patch added daily and general jail-time limits; November 23 post says restricted servers may require minimum jail time. Not yet on the wipe page.)
 19. [x] Official communities and support email (standalone directory). (Published November 25, 2026 (US Eastern) on the support-and-feedback page, together with #29.)
-20. Update cadence and the 6–12 month Early Access window; a dated patch log that only quotes Steam news.
+20. [x] Update cadence and the 6–12 month Early Access window; a dated patch log that only quotes Steam news. (Published November 26, 2026 (US Eastern) as the updates-and-patch-log page; add each new Steam change post to it.)
 21. Voice chat issues and official microphone-permission steps.
 22. Red screen / HDR official fix, quoted in full from the Help Center.
 23. Mouse-movement FPS drop: quote the official article once it is captured in full.
