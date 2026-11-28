@@ -2,7 +2,7 @@
 
 Editorial rule: do not invent mechanics, numbers, or keybinds. A topic moves off this list only when both the English and Chinese pages exist, each claim is cited to an official source, and the source-check date is current.
 
-Verified against official sources as of November 26, 2026 (US Eastern).
+Verified against official sources as of November 27, 2026 (US Eastern).
 
 ## Published in v1
 
@@ -24,12 +24,13 @@ Verified against official sources as of November 26, 2026 (US Eastern).
 - [x] Party size and gear durability (November 13 FAQ)
 - [x] Support, bug reports, feedback, UID, missing purchases, lost progress, personal data, official communities, community rules
 - [x] Updates, Early Access length, dated patch log, and announced-but-not-shipped plans
+- [x] Death, respawn, and loot loss (Criminal / Civilian / Police Officer, Looty Bay vs desert, surrender and bribes, durability, respawn notes)
 
 ## Next topics (official-source only)
 
 Write these only when a Help Center article, Steam news post, or other official page actually supports them. If the official text is thin, say so.
 
-1. Death and loot loss in more depth (expand from the existing first-hour / heist notes; include desert vs city vs cop / civilian / criminal).
+1. [x] Death and loot loss in more depth (expand from the existing first-hour / heist notes; include desert vs city vs cop / civilian / criminal). (Published November 27, 2026 (US Eastern) as the death-and-loot-loss page.) Follow-up for the next run: add links to it from the beginner, heists, and party-and-gear-durability pages (EN + ZH), and add the pre-launch Gameplay Overview, Global Map, Frequently Asked Questions, Base Management, and Playtest News posts to the Sources pages.
 2. [x] Clans: how to join or create one, laundered-funds requirement, territory control (Getting Started mentions this).
 3. [x] Vehicles in full: free rental at a Parking Terminal, owning and upgrading a car, key locker, modules.
 4. [x] Helicopters: central-district purchase rule and loot finds.

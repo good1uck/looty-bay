@@ -9,7 +9,7 @@ description: How long Kefir expects ROB RUN to stay in Early Access, where updat
 permalink: /en/guides/updates-and-patch-log/
 ---
 
-This page only summarizes what Kefir has posted on the [ROB RUN Steam news page](https://store.steampowered.com/news/app/4262460), the [Steam store page](https://store.steampowered.com/app/4262460/ROB_RUN/), and the [Help Center](https://kefirgames.helpshift.com/hc/en/14-rob-run/). Each entry links to the original post, and the official post is the one to trust. Source check: November 26, 2026 (verified as of November 26, 2026). This is an unofficial fan site.
+This page only summarizes what Kefir has posted on the [ROB RUN Steam news page](https://store.steampowered.com/news/app/4262460), the [Steam store page](https://store.steampowered.com/app/4262460/ROB_RUN/), and the [Help Center](https://kefirgames.helpshift.com/hc/en/14-rob-run/). Each entry links to the original post, and the official post is the one to trust. Source check: November 27, 2026 (verified as of November 27, 2026, US Eastern). This is an unofficial fan site.
 
 ## How long Early Access is expected to last
 
@@ -74,7 +74,7 @@ Kefir added that "None of these changes are set in stone."
 
 [Read the post](https://store.steampowered.com/news/app/4262460/view/1849827110441426). This post announced a new wave of bans and said more than 200,000 accounts had been blocked. It was not a patch list. Details and the planned restricted servers are covered in the [anti-cheat and bans guide](/en/guides/anti-cheat-bans/).
 
-Kefir's [November 24, 2026 post](https://store.steampowered.com/news/app/4262460/view/1849827110446112) asked players to nominate ROB RUN in the Steam Awards and did not list any game changes.
+Kefir's [November 24, 2026 post](https://store.steampowered.com/news/app/4262460/view/1849827110446112) asked players to nominate ROB RUN in the Steam Awards and did not list any game changes. A [November 27, 2026 follow-up](https://store.steampowered.com/news/app/4262460/view/1850460852989024) ("Steam Awards: 3 Days to Nominate!") asked for nominations in the Defies Description and Best Game You Suck At categories, said nominations close on November 30, and also listed no game changes.
 
 ## Announced, but not shipped yet
 
@@ -104,5 +104,6 @@ Kefir has not published version numbers, patch sizes, a roadmap with dates, or a
 - [Patch Notes](https://store.steampowered.com/news/app/4262460/view/1849827110432538) (November 20, 2026)
 - [Anti-Cheat Measures and Servers](https://store.steampowered.com/news/app/4262460/view/1849827110441426) (November 23, 2026)
 - [STEAM AWARDS](https://store.steampowered.com/news/app/4262460/view/1849827110446112) (November 24, 2026)
+- [Steam Awards: 3 Days to Nominate!](https://store.steampowered.com/news/app/4262460/view/1850460852989024) (November 27, 2026)
 
 </div>

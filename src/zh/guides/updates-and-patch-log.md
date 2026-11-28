@@ -9,7 +9,7 @@ description: Kefir 预计《ROB RUN》的抢先体验会持续多久、更新在
 permalink: /zh/guides/updates-and-patch-log/
 ---
 
-本页只整理 Kefir 在 [ROB RUN 的 Steam 新闻页](https://store.steampowered.com/news/app/4262460)、[Steam 商店页](https://store.steampowered.com/app/4262460/ROB_RUN/)和[帮助中心](https://kefirgames.helpshift.com/hc/en/14-rob-run/)上发布的内容。每一条都附有原帖链接，内容以官方原文为准。来源核对日期：2026 年 11 月 26 日（verified as of November 26, 2026）。本站为非官方粉丝站点。
+本页只整理 Kefir 在 [ROB RUN 的 Steam 新闻页](https://store.steampowered.com/news/app/4262460)、[Steam 商店页](https://store.steampowered.com/app/4262460/ROB_RUN/)和[帮助中心](https://kefirgames.helpshift.com/hc/en/14-rob-run/)上发布的内容。每一条都附有原帖链接，内容以官方原文为准。来源核对日期：2026 年 11 月 27 日（verified as of November 27, 2026，美国东部时间）。本站为非官方粉丝站点。
 
 ## 抢先体验预计持续多久
 
@@ -74,7 +74,7 @@ Kefir 还表示，这些改动“都不是定死的”（None of these changes a
 
 [阅读原帖](https://store.steampowered.com/news/app/4262460/view/1849827110441426)。这篇公告宣布新一轮封禁，并称已封禁超过 20 万个账号。它不是更新列表。详细内容和计划中的限制服务器见[反作弊与封禁指南](/zh/guides/anti-cheat-bans/)。
 
-Kefir [2026 年 11 月 24 日的公告](https://store.steampowered.com/news/app/4262460/view/1849827110446112)是请玩家在 Steam 大奖（Steam Awards）中提名《ROB RUN》，没有列出任何游戏改动。
+Kefir [2026 年 11 月 24 日的公告](https://store.steampowered.com/news/app/4262460/view/1849827110446112)是请玩家在 Steam 大奖（Steam Awards）中提名《ROB RUN》，没有列出任何游戏改动。[2026 年 11 月 27 日的后续公告](https://store.steampowered.com/news/app/4262460/view/1850460852989024)（“Steam Awards: 3 Days to Nominate!”）请玩家在 Defies Description 和 Best Game You Suck At 两个类别中提名，并说明提名在 11 月 30 日截止，同样没有列出游戏改动。
 
 ## 已宣布、尚未上线
 
@@ -104,5 +104,6 @@ Kefir 没有公布版本号、更新包大小、带日期的路线图，也没�
 - [Patch Notes](https://store.steampowered.com/news/app/4262460/view/1849827110432538)（2026 年 11 月 20 日）
 - [Anti-Cheat Measures and Servers](https://store.steampowered.com/news/app/4262460/view/1849827110441426)（2026 年 11 月 23 日）
 - [STEAM AWARDS](https://store.steampowered.com/news/app/4262460/view/1849827110446112)（2026 年 11 月 24 日）
+- [Steam Awards: 3 Days to Nominate!](https://store.steampowered.com/news/app/4262460/view/1850460852989024)（2026 年 11 月 27 日）
 
 </div>
